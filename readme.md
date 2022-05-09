@@ -16,9 +16,10 @@ All report content is in the directory:
 
 The report takes the following structure:
 
-* 01-
-* 02-
-* 03-
+* 01 - Introduction
+* 02 - Parallelised Classifiers with PySpark
+* 03 - Non-parallel Classifiers
+* 04 - Conclusion
 
 
 ### Requirements:
