@@ -23,7 +23,7 @@ The report takes the following structure:
 
 ### Requirements:
 
-Requirements for the ipynb files are given within each script.
+Requirements for the ipynb files can be found in `requirements.txt`.
 
 ## Evidence
 
